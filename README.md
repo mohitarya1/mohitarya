@@ -2,9 +2,4 @@
 this is my first github respository
 <br>
 author- mohit arya
-<br>
-kaise aap log
-<br>
-i love you
-<br>
-hii
+
